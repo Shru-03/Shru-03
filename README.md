@@ -43,4 +43,9 @@ Postman · Figma · Render · VS Code · WordPress
 
 ---
 
+### 🧠 React.js Practice Workspace – Clean Code & Optimization Focus  
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?logo=codesandbox)](https://codesandbox.io/p/sandbox/6dnds4)
+
+Explore my dedicated sandbox for learning React.js fundamentals while focusing on performance, reusability, and scalable code architecture.
+
 > *Let’s build fast, look sharp, and ship smart.*
