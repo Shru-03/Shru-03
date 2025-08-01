@@ -1,4 +1,16 @@
-## 👋 Hi there!
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" alt="Shruti Sharma – MERN Stack Developer" width="100%" />
+</p>
+
+<h1 align="center">👋 Hi, I'm Shruti Sharma</h1>
+
+<p align="center">
+  💻 MERN Stack Developer | 🌩 AWS Practitioner | 💼 Freelancer & Open Source Contributor  
+</p>
+
+---
+
+## 🧠 About Me
 
 I’m a **MERN stack developer** with a strong foundation in building and deploying full-stack applications. I've delivered real-world solutions for clients and startups, both independently and as part of an agile team.
 
